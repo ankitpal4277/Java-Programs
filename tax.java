@@ -14,6 +14,7 @@ public class tax {
         } else {
             double tax = income * 0.3;
             System.out.println("Your tax is: " + tax);
+            System.out.println("Haha.. You got robbed bro...");
         }
 
     }
