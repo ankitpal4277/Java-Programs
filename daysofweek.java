@@ -28,7 +28,7 @@ public class daysofweek {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("Invalid input! Please enter a number between 1 and 7.");
+                System.out.println("Invalid input! Please enter a number from 1 to 7.");
         }
     }
 }
