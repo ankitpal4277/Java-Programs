@@ -7,7 +7,8 @@ public class multiple10 {
             System.out.println("Enter a number u wish to print: ");
             int n = sc.nextInt();
             if (n % 10 == 0) {
-                continue;
+                // continue;
+                break;
             }
             System.out.println("You entered: " + n);
 
