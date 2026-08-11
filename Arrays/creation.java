@@ -1,5 +1,3 @@
-package Arrays;
-
 public class creation {
     public static void main(String args[]){
         int marks[] = new int[50]; // Arrays are Static in size.

@@ -1,5 +1,3 @@
-package Arrays;
-
 public class arrayasarg {
 
     public static void update(int marks[]){
